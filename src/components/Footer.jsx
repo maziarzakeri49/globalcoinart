@@ -44,18 +44,18 @@ const Footer = () => {
             <nav className="space-y-2">
               {[
                 { name: 'About Project', href: '/about' },
-                { name: 'How It Works', href: '/how-it-works' },
-                { name: 'Gallery', href: '/gallery' },
+                { name: 'How It Works', href: '/contribute' },
+                { name: 'Gallery', href: '/exhibit' },
                 { name: 'Contribute', href: '/contribute' },
-                { name: 'Exhibitions', href: '/exhibitions' },
-                { name: 'FAQ', href: '/faq' }
+                { name: 'Exhibitions', href: '/exhibit' },
+                { name: 'FAQ', href: '/' }
               ].map((link, index) => (
                 <Link
                   key={index}
                   href={link.href}
                   className="text-gray-400 hover:text-white text-sm transition-colors"
                 >
-                  {link.name}
+                  {link.name} ,  
                 </Link>
               ))}
             </nav>
@@ -69,17 +69,17 @@ const Footer = () => {
                 <MapPinIcon className="h-5 w-5 flex-shrink-0" />
                 <p>
                   Global Coin Art Headquarters<br />
-                  123 Cultural Exchange Blvd.<br />
-                  World Heritage City, Earth
+                  1511-30 Roehampton Avenue .<br />
+                  Toronto, ON, Canada
                 </p>
               </div>
               <div className="flex items-center space-x-3">
                 <PhoneIcon className="h-5 w-5 flex-shrink-0" />
-                <p>+1 (234) 567-8900</p>
+                <p>+1 (647) 778-1302</p>
               </div>
               <div className="flex items-center space-x-3">
                 <EnvelopeIcon className="h-5 w-5 flex-shrink-0" />
-                <p>info@globalcoinart.com</p>
+                <p>globalcoinart@gmail.com</p>
               </div>
             </div>
           </div>

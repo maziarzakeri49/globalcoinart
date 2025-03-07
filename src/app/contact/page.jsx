@@ -77,7 +77,7 @@ export default function ContactPage() {
                       Email
                     </h3>
                     <p className="text-gray-600">
-                      info@globalcoinart.com
+                      globalcoinart@gmail.com
                     </p>
                     <p className="text-gray-600">
                       support@globalcoinart.com
@@ -95,11 +95,9 @@ export default function ContactPage() {
                       Phone
                     </h3>
                     <p className="text-gray-600">
-                      +1 (416) 555-1234
+                      +1 (647) 778-1302
                     </p>
-                    <p className="text-gray-600">
-                      +1 (416) 555-5678
-                    </p>
+                    
                   </div>
                 </div>
 
@@ -116,10 +114,10 @@ export default function ContactPage() {
                       Global Coin Art
                     </p>
                     <p className="text-gray-600">
-                      P.O. Box 1234
+                    1511-30 Roehampton Avenue
                     </p>
                     <p className="text-gray-600">
-                      Toronto, ON, Canada
+                      Toronto, ON, Canada M4P 0B9
                     </p>
                   </div>
                 </div>

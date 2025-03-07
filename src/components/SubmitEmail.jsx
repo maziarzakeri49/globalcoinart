@@ -9,7 +9,7 @@ export default function SubmitEmail() {
     <div className=" ">
       
       <form
-        action="https://formsubmit.co/1a72d6e0148e554effa6ca87d5efc73a" // Replace with your FormSubmit URL
+        action="https://formsubmit.co/70b3701a677977a7618e88d9bff98374" // Replace with your FormSubmit URL
         method="POST"
         className="flex flex-col space-y-3"
         onSubmit={() => setStatus("Sending...")}

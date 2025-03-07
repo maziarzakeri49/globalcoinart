@@ -25,7 +25,7 @@ export default function ConfirmationForm() {
             </h2>
             <form
                 className="space-y-6"
-                action="https://formsubmit.co/1a72d6e0148e554effa6ca87d5efc73a" // Replace with your FormSubmit URL
+                action="https://formsubmit.co/70b3701a677977a7618e88d9bff98374" // Replace with your FormSubmit URL
                 method="POST"
                 encType="multipart/form-data" // Required for file uploads
                 onSubmit={() => setStatus("Sending...")}

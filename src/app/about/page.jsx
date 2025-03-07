@@ -41,8 +41,8 @@ export default function AboutPage() {
               <img src='/asset/mazpic/maziarpic4.jpg' alt="MAZ - Founder of Global Coin Art" />
             </div>
           </div>
-          <h1 className="text-4xl md:text-6xl font-bold mb-4 animate-fade-in-up">
-            <span className='bg-clip-text text-transparent bg-gradient-to-r from-yellow-400 to-orange-300'>MAZ</span>
+          <h1 className="text-2xl md:text-3xl font-bold mb-4 animate-fade-in-up">
+            <span className='bg-clip-text text-transparent bg-gradient-to-r from-yellow-400 to-orange-300'>Maziar</span>
           </h1>
           <p className="text-xl md:text-2xl">Metallurgical Engineer & Founder of Global Coin Art</p>
         </div>
@@ -52,7 +52,7 @@ export default function AboutPage() {
       <section className="py-16 px-4">
         <div className="max-w-3xl mx-auto space-y-8">
           <div className="bg-white rounded-xl shadow-lg p-8">
-            <p className="text-2xl font-bold text-gray-800 mb-6">Hi, I'm MAZ</p>
+            <p className="text-2xl font-bold text-gray-800 mb-6">Hi, I'm Maziar</p>
             <p className="text-gray-600 mb-6">
               I'm a metallurgical engineer with a master's degree in metal extraction, currently living in Toronto, Canada. For years, I've worked in industries where metals are extracted and transformed to improve lives. But now, I want to do something different—something that brings people together, rather than just materials.
             </p>

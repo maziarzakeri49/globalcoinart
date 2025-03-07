@@ -173,8 +173,8 @@ export default function ContributePage() {
                 Clearly write both the return address (your address) and our mailing address on the envelope. Use permanent ink and ensure legibility.
               </p>
               <p className="text-gray-600">
-                <span className="text-black font-bold">Our Mailing Address:</span>
-                Global Coin Art, PO Box 1234, Toronto, ON, Canada M5V 3L9
+                <span className="text-black font-bold">Our Mailing Address : </span>
+                 1511-30 Roehampton Avenue , Toronto, ON, Canada 
               </p>
               <ClipboardDocumentCheckIcon className="h-12 w-12 text-yellow-600" />
             </div>
@@ -221,7 +221,7 @@ export default function ContributePage() {
               </div>
               <p className="text-gray-600">
                 Take a clear photo of your mailing receipt and email it to us at{' '}
-                <span className="font-bold">contributions@gmail.com</span> for tracking and confirmation.
+                <span className="font-bold">globalcoinart@gmail.com</span> for tracking and confirmation.
               </p>
               <p className="text-gray-600">
                 <span className="font-bold pr-1">Please note:</span>
@@ -262,9 +262,9 @@ export default function ContributePage() {
             <h3 className="text-2xl font-bold mb-4">Our Mailing Address</h3>
             <div className="text-gray-600 font-mono space-y-2">
               <p>Global Coin Art</p>
-              <p>PO Box 1234</p>
+              <p>1511-30 Roehampton Avenue</p>
               <p>Toronto, ON</p>
-              <p>Canada M5V 3L9</p>
+              <p>Canada M4P 0B9</p>
             </div>
             <p className="mt-6 text-gray-600">
               Please ensure your return address is clearly visible
