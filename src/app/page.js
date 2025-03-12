@@ -5,9 +5,17 @@ import { GlobeAmericasIcon, CurrencyDollarIcon, UserGroupIcon } from '@heroicons
 import SubmitForm from '@/components/SubmitForm'
 
 export const metadata = {
-  title: 'Global Coin Art - A Worldwide Collaboration Celebrating Coin & Culture',
+  title: 'Global Coin Art | A Worldwide Collaboration Celebrating Coin & Culture',
   description: 'Join the Global Coin Art project, a worldwide collaboration celebrating the unity and cultural pride through coins. Contribute your coin and be part of a grand, global tapestry that showcases the rich history and stories behind each coin.',
-  keywords: ['Global Coin Art', 'coin collaboration', 'cultural pride', 'coin stories', 'worldwide art project'],
+  keywords: ['Global Coin Art','coin art','coin','coin collection',
+    'coin market',
+    'coin culture',
+    'coin collaboration',
+    'art from coins',
+    'cultural coin project',
+    'coin history',
+    'coin stories',
+    'world coin art', 'coin collaboration', 'cultural pride', 'coin stories', 'worldwide art project'],
   openGraph: {
     title: 'Global Coin Art - A Worldwide Collaboration Celebrating Coin & Culture',
     description: 'Join the Global Coin Art project, a worldwide collaboration celebrating the unity and cultural pride through coins. Contribute your coin and be part of a grand, global tapestry that showcases the rich history and stories behind each coin.',
@@ -18,7 +26,7 @@ export const metadata = {
         url: '/asset/coin pic/world map4.png',
         width: 800,
         height: 600,
-        alt: 'Global Coin Art Installation Concept',
+        alt: 'Global Coin Art - A Worldwide Collaborative Art Project',
       },
     ],
     locale: 'en_US',
@@ -26,7 +34,7 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Global Coin Art - A Worldwide Collaboration Celebrating Coin & Culture',
+    title: 'Global Coin Art | A Worldwide Collaboration Celebrating Coin & Culture',
     description: 'Join the Global Coin Art project, a worldwide collaboration celebrating the unity and cultural pride through coins. Contribute your coin and be part of a grand, global tapestry that showcases the rich history and stories behind each coin.',
     images: ['/asset/coin pic/world map4.png'],
   },

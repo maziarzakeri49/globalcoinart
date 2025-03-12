@@ -3,12 +3,18 @@ import { GlobeAltIcon, UserGroupIcon, SparklesIcon } from '@heroicons/react/24/o
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'About MAZ - Founder of Global Coin Art | Metallurgical Engineer & Visionary',
-  description: 'Meet MAZ, a metallurgical engineer and the founder of Global Coin Art. Discover his vision for a global collaborative art project that unites people through coins and celebrates cultural diversity.',
-  keywords: ['MAZ', 'Global Coin Art', 'metallurgical engineer', 'coin art project', 'cultural diversity', 'global unity'],
+  title: 'About MAZIAR - Founder of Global Coin Art | Metallurgical Engineer & Visionary',
+  description: 'Meet MAZIAR, a metallurgical engineer and the founder of Global Coin Art. Discover his vision for a global collaborative art project that unites people through coins and celebrates cultural diversity.',
+  keywords: ['Maziar', 'Global Coin Art', 'metallurgical engineer', 'coin art project', 'cultural diversity', 'global unity', 'metallurgy', 'coin', 'coin collection', 'coin market',
+    'coin culture',
+    'coin collaboration',
+    'art from coins',
+    'cultural coin project',
+    'coin history',
+    'coin stories'],
   openGraph: {
-    title: 'About MAZ - Founder of Global Coin Art | Metallurgical Engineer & Visionary',
-    description: 'Meet MAZ, a metallurgical engineer and the founder of Global Coin Art. Discover his vision for a global collaborative art project that unites people through coins and celebrates cultural diversity.',
+    title: 'About Maziar - Founder of Global Coin Art | Metallurgical Engineer & Visionary',
+    description: 'Meet MAZIAR, a metallurgical engineer and the founder of Global Coin Art. Discover his vision for a global collaborative art project that unites people through coins and celebrates cultural diversity.',
     url: 'https://www.globalcoinart.com/about-me',
     siteName: 'Global Coin Art',
     images: [
@@ -16,7 +22,7 @@ export const metadata = {
         url: '/asset/mazpic/maziarpic4.jpg',
         width: 800,
         height: 600,
-        alt: 'MAZ - Founder of Global Coin Art',
+        alt: 'MAZIAR - Founder of Global Coin Art',
       },
     ],
     locale: 'en_US',
@@ -24,8 +30,8 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'About MAZ - Founder of Global Coin Art | Metallurgical Engineer & Visionary',
-    description: 'Meet MAZ, a metallurgical engineer and the founder of Global Coin Art. Discover his vision for a global collaborative art project that unites people through coins and celebrates cultural diversity.',
+    title: 'About MAZIAR - Founder of Global Coin Art | Metallurgical Engineer & Visionary',
+    description: 'Meet MAZIAR, a metallurgical engineer and the founder of Global Coin Art. Discover his vision for a global collaborative art project that unites people through coins and celebrates cultural diversity.',
     images: ['/asset/mazpic/maziarpic4.jpg'],
   },
 };
